@@ -84,7 +84,7 @@ git clone https://github.com/your-username/Kutira-Kushala.git
 
 ## 👨‍💻 Developed By
 
-Jayasurya
+Jayasurya H
 
 ---
 
